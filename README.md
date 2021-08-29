@@ -5,6 +5,7 @@
 - 📫 My email address is fan.1090@buckeyemail.osu.edu
 - Programming Language: </br>  
 ![](https://img.shields.io/badge/Java-important)
+![](https://img.shields.io/badge/Python-information)
 
 <!---
 Davis-Fan/Davis-Fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
