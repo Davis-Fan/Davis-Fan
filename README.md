@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dayi Fan (Davis).
 - 👀 I’m interested in Computer System & Artificial Intelligence.
 - 🌱 I’m currently pursuing a CS PhD in the Ohio State University now.
-- 💞️ I’m looking to collaborate on someone who can know some interesting projects about High Performance Computing.
+- 💞️ I’m looking to collaborate on someone who are interested in High Performance Computing.
 - 📫 My email address is fan.1090@buckeyemail.osu.edu
 
 <!---
