@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on someone who are interested in High Performance Computing.
 - 📫 My email address is fan.1090@osu.edu
 - Programming Language:  
-![](https://img.shields.io/badge/Java-important) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/-C%2B%2B-orange) ![](https://img.shields.io/badge/MATLAB-ff69b4)
+![](https://img.shields.io/badge/Java-important) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/-C%2B%2B-red) ![](https://img.shields.io/badge/MATLAB-ff69b4)
 
 <!---
 Davis-Fan/Davis-Fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
